@@ -16,7 +16,7 @@
 
 <br/>
 
-[![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash56244&show_icons=true)](https://github.com/yash56244)
+![Yash's github stats](https://github-readme-stats.vercel.app/api?username=yash56244&show_icons=true&hide_border=true)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
