@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C++
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Django
+- 🌐 &nbsp; HTML | CSS | JavaScript | Flask
 - 🛢 &nbsp; SQLAlchemy | Mongodb 
 - 🔧 &nbsp; Git 
 
