@@ -9,8 +9,8 @@
 <!-- 💼 &nbsp; Working as a.-->
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++
-- 🌐 &nbsp; HTML | CSS | JavaScript | Flask | Node.js
+- 💻 &nbsp; Python | C++ | JavaScript
+- 🌐 &nbsp; HTML | CSS | Flask | Node.js
 - 🛢 &nbsp; SQLAlchemy | Mongodb | React.js
 - 🔧 &nbsp; Git 
 
