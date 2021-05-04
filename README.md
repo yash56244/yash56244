@@ -9,10 +9,10 @@
 <!-- 💼 &nbsp; Working as a.-->
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | JavaScript
-- 🌐 &nbsp; HTML | CSS | Flask | Node.js
-- 🛢 &nbsp; SQLAlchemy | Mongodb | React.js
-- 🔧 &nbsp; Git 
+- 💻 &nbsp; C++ | Python | JavaScript
+- 🌐 &nbsp; HTML | CSS | Node.js
+- 🛢 &nbsp; MongoDB | React.js | SQLAlchemy
+- 🔧 &nbsp; Git | VSCode
 
 <br/>
 
