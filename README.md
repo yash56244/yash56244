@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Electronics and Communication at NIT Trichy.
-- 🌱 &nbsp; Learning more about Algorithms.
+  - 🎓 &nbsp; Studying ECE at NIT Trichy.
+- 🌱 &nbsp; Learning more about Data Structures and Algorithms.
 <!--- ✍️ &nbsp; Pursuing-->
 <!-- 💼 &nbsp; Working as a.-->
 <h3>🛠 Tech Stack</h3>
